@@ -1,0 +1,25 @@
+
+body {
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb();
+}
+
+header {
+  text-align:center;
+  color:rgb(19, 119, 28);
+}
+
+.profile-picture{
+border-radius:25%;
+display:block;
+margin: auto;
+}
+.section{
+margin:auto;
+padding:1rem;
+background-color:rgb(255, 255, 255);
+}
+
+.card:hover{
+cursor:pointer;
+}
