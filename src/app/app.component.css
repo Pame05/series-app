@@ -10,7 +10,7 @@ header {
 }
 
 .profile-picture{
-border: radius 15%;
+border: radius 50%;
 border-color: azure;
 border: 5px solid;
 display:block;
