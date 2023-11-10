@@ -21,7 +21,7 @@ margin: auto
 
 .sectionHistoria{
 margin:auto;
-padding:1rem;
+padding:10px;
 background-color:white;
 border-radius: 15%;
  
@@ -29,14 +29,14 @@ border-radius: 15%;
 
 .sectionMotivos{
     margin:auto;
-    padding:1rem;
+    padding:10px; 
     background-color:white;
     border-radius: 15%;
     }
 
 .sectionSimilares{
     margin:auto;
-    padding:1rem;
+    padding:10 px;
     background-color:white;
     border-radius: 15%;
     }
