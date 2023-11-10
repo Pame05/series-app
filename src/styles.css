@@ -18,9 +18,9 @@ body {
   
     /* Fijar la imagen de fondo para que no se desplace con el contenido */
     background-attachment: fixed;
-  
+}
     /* Centrar la imagen de fondo */
-    background-position: center;
+   /*background-position: center;
 }
     /* Establecer un color de fondo como respaldo si la imagen no se carga o no cubre toda la página */
     /*background-color: #141414;
