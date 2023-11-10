@@ -18,7 +18,7 @@ scale= 0.5;
 .sectionHistoria{
 margin:auto;
 padding:1rem;
-background-color:yellowgreen;
+background-color:whitesmoke;
 border-radius: 15%;
  
 }
@@ -26,18 +26,42 @@ border-radius: 15%;
 .sectionMotivos{
     margin:auto;
     padding:1rem;
-    background-color:paleturquoise;
+    background-color:whitesmoke;
     border-radius: 15%;
     }
 
 .sectionSimilares{
     margin:auto;
     padding:1rem;
-    background-color:rgb(131, 112, 112);
+    background-color:whitesmoke;
     border-radius: 15%;
     }
 
 
-.card:hover{
-cursor:pointer;
+.sectionHistoria:hover{
+    scale: 1.2;
+    font-weight: bolder;
+    background-color: purple;
+    color: rgb(241, 170, 220);
+    transform: translateY(-5px);
+    box-shadow: 30px 30px 30px;
+}
+
+.sectionMotivos:hover{
+    scale: 1.2;
+    font-weight: bolder;
+    background-color: purple;
+    color: rgb(241, 170, 220);
+    transform: translateY(-5px);
+    box-shadow: 30px 30px 30px;
+}
+
+
+.sectionSimilares:hover{
+    scale: 1.2;
+    font-weight: bolder;
+    background-color: purple;
+    color: rgb(241, 170, 220);
+    transform: translateY(-5px);
+    box-shadow: 30px 30px 30px;
 }
