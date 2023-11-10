@@ -15,7 +15,6 @@ border-color: azure;
 border: 5px solid;
 width: 100 px;
 height: 100px;
-
 display:block;
 margin: auto
 }
@@ -23,7 +22,7 @@ margin: auto
 .sectionHistoria{
 margin:auto;
 padding:1rem;
-background-color:whitesmoke;
+background-color:white;
 border-radius: 15%;
  
 }
@@ -31,16 +30,21 @@ border-radius: 15%;
 .sectionMotivos{
     margin:auto;
     padding:1rem;
-    background-color:whitesmoke;
+    background-color:white;
     border-radius: 15%;
     }
 
 .sectionSimilares{
     margin:auto;
     padding:1rem;
-    background-color:whitesmoke;
+    background-color:white;
     border-radius: 15%;
     }
+ .divtarjetagris{
+    margin:auto;
+    padding:1rem;
+    background-color:gray;
+ }
 
 
 .sectionHistoria:hover{
@@ -62,10 +66,10 @@ border-radius: 15%;
 }
 
 
-.sectionSimilares:hover{
+.divtarjetagris:hover{
     scale: 1.01;
     font-weight: bolder;
-    background-color: purple;
+    background-color: red;
     color: white;
     transform: translateY(-1px);
     box-shadow: 30px 30px 30px;
