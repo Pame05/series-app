@@ -10,7 +10,7 @@ header {
 }
 
 .profile-picture{
-border-radius:75%;
+border: radius 95%;
 display:block;
 margin: auto
 }
@@ -39,7 +39,7 @@ border-radius: 15%;
 
 
 .sectionHistoria:hover{
-    scale: 1.2;
+    scale: 1.01;
     font-weight: bolder;
     background-color: purple;
     color: rgb(241, 170, 220);
@@ -48,7 +48,7 @@ border-radius: 15%;
 }
 
 .sectionMotivos:hover{
-    scale: 1.2;
+    scale: 1.01;
     font-weight: bolder;
     background-color: purple;
     color: rgb(241, 170, 220);
@@ -58,7 +58,7 @@ border-radius: 15%;
 
 
 .sectionSimilares:hover{
-    scale: 1.2;
+    scale: 1.01;
     font-weight: bolder;
     background-color: purple;
     color: rgb(241, 170, 220);
