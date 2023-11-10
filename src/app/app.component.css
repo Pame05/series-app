@@ -10,7 +10,8 @@ header {
 }
 
 .profile-picture{
-border: radius 25%;
+scale: 0.5;
+border: radius 50%;
 display:block;
 margin: auto
 }
