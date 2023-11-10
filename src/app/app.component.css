@@ -42,8 +42,8 @@ border-radius: 15%;
     }
 
  .divtarjetagris{
-    margin:5px;
-    padding:1rem;
+    margin:auto;
+    padding:10 px;
     background-color:gray;
     cursor:pointer
  }
