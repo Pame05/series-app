@@ -41,7 +41,7 @@ border-radius: 15%;
     border-radius: 15%;
     }
 
- .divtarjetagris{
+ .tarjetagris{
     margin:auto;
     padding:10 px;
     background-color:gray;
@@ -68,7 +68,7 @@ border-radius: 15%;
 }
 
 
-.sectiondiv:hover{
+.tarjetagris:hover{
     scale: 1.01;
     font-weight: bolder;
     background-color: red;
