@@ -20,29 +20,29 @@ margin: auto
 }
 
 .sectionHistoria{
-margin:auto;
+margin:10px;
 padding:10px;
 background-color:white;
-border-radius: 15%;
+border-radius: 10%;
  
 }
 
 .sectionMotivos{
-    margin:auto;
+    margin:10px;
     padding:10px; 
     background-color:white;
-    border-radius: 15%;
+    border-radius: 10%;
     }
 
 .sectionSimilares{
-    margin:auto;
+    margin:10px;
     padding:10 px;
     background-color:white;
-    border-radius: 15%;
+    border-radius: 10%;
     }
 
  .tarjetagris{
-    margin:auto;
+    margin:10px;
     padding:10 px;
     background-color:gray;
     cursor:pointer
