@@ -21,7 +21,7 @@ body {
   
     /* Centrar la imagen de fondo */
     background-position: center;
-  
+}
     /* Establecer un color de fondo como respaldo si la imagen no se carga o no cubre toda la página */
-    background-color: #141414;
+    /*background-color: #141414;
   }
