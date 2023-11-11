@@ -59,7 +59,7 @@ border-radius: 5%;
     background-color: purple;
     color: white;
     transform: translateY(-1px);
-    box-shadow: 30px 30px 30px;
+    box-shadow: 30px 30px 30px rgba(201, 71, 116, 0.958);
 }
 
 .sectionMotivos:hover{
@@ -68,7 +68,7 @@ border-radius: 5%;
     background-color: purple;
     color: white;
     transform: translateY(-1px);
-    box-shadow: 30px 30px 30px;
+    box-shadow: 30px 30px 30px rgba(201, 71, 116, 0.958);
 }
 
 
@@ -78,5 +78,5 @@ border-radius: 5%;
     background-color: red;
     color: white;
     transform: translateY(-1px);
-    box-shadow: 30px 30px 30px;
+    box-shadow: 30px 30px 30px rgba(243, 40, 111, 0.5);
 }
