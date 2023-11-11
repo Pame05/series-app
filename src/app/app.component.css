@@ -20,7 +20,7 @@ margin: auto
 }
 
 .sectionHistoria{
-margin:10px;
+margin:10px 20px;
 padding:10px;
 background-color:white;
 border-radius: 5%;
@@ -28,14 +28,14 @@ border-radius: 5%;
 }
 
 .sectionMotivos{
-    margin:10px;
+    margin:10px 20px;
     padding:10px; 
     background-color:white;
     border-radius: 5%;
     }
 
 .sectionSimilares{
-    margin:10px;
+    margin:10px 20px;
     padding:10 px;
     background-color:white;
     border-radius: 5%;
