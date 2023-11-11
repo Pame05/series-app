@@ -6,7 +6,7 @@ background-color: black;
 
 .encabezado {
   text-align:center;
-  color:rgb(255, 253, 253)
+  color:rgb(202, 241, 221)
   font-weight bold;
   margin: 0;
   padding: 0;
@@ -15,7 +15,7 @@ background-color: black;
 
 .profile-picture{
 border-radius: 50%;
-border-color: azure;
+border-color:white;
 border: 5px solid;
 width: 100 px;
 height: 100px;
