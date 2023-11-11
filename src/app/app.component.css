@@ -10,8 +10,7 @@
 
 .profile-picture{
 border-radius: 50%;
-border-color:white;
-border: 5px solid;
+border: 5px solid white;
 width: 100 px;
 height: 100px;
 /*display:block;
@@ -73,5 +72,5 @@ border-radius: 5%;
     background-color: red;
     color: white;
     transform: translateY(-1px);
-    box-shadow: 30px 30px 30px rgba(195, 83, 83, 0.816);
+    box-shadow: 30px 30px 30px rgba(246, 140, 140, 0.816);
 }
