@@ -1,6 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+
+
 body {
-font-family: fantasy;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image:url(https://images7.alphacoders.com/132/1326003.jpeg);
     background-size: 100% 100%;
 
