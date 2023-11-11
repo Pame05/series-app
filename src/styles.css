@@ -4,25 +4,12 @@
 
 
 body {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image:url(https://images7.alphacoders.com/132/1326003.jpeg);
     background-size: 100% 100%;
-
     /* Fijar la imagen de fondo para que no se desplace con el contenido */
     background-attachment: fixed;
-  
     /* Centrar la imagen de fondo */
     background-position: center;
-  
 } 
 
-/* body {
-    font-family: 'Arial', sans-serif;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    object-fit: cover; 
-    background-image:url(https://wall.alphacoders.com/big.php?i=1329244);
-} 
- */
